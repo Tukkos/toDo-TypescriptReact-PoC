@@ -1,3 +1,25 @@
+# toDo - Typescript in React PoC
+
+This project is a basic React toDo app using Typescript, its a study to understand how to configure and create an project with Typescript in React. With this app you can add new tasks and check which ones you have done. It is themed and have easter eggs to make reference of an island creation game named Animal Crossing.
+
+## How to use
+
+1. Clone this repository;
+2. Install all dependecies;
+```bash
+npm i
+```
+3. Add any taks you want on the input;
+4. Press the button to send;
+5. Click on the task to mark it as done;
+
+## Technologies
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
